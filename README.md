@@ -13,3 +13,5 @@ Path with highest cost is illuminated always. Can delete selected node or edge b
 Can zoom in or out and change application size.
 ![alt text](https://github.com/infinity-create/Dependancy/blob/main/page5.png)
 Node name and cost can be changed. Selected node is highlighted.
+
+![alt text](https://github.com/infinity-create/Dependancy/blob/main/screen-capture%20(1).gif)
